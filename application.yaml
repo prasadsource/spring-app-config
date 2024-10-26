@@ -14,3 +14,4 @@ okta:
 spring:
   zipkin:
     baseUrl: http://localhost:9411
+CONFIG_SERVER_URL:http://localhost:9296
